@@ -1,0 +1,5 @@
+---
+applications:
+ - name: cryptocurrencychatbot
+   random-route: true
+   memory: 128M
